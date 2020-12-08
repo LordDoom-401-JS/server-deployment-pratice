@@ -6,9 +6,7 @@ Time to get hands on with Node.js development! Today, you’ll create and deploy
 ### Author: Andre Olivier Martin
 ### Links and Resources
 
-- [ci/cd](https://github.com/ravenmoore-401-JS/server-deployment-practice/actions) (GitHub Actions)
-- [back-end server url](https://ravenmoore-server-deploy-dev.herokuapp.com/) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+[heroku](https://dashboard.heroku.com/apps/lorddoom-server-deploy-dev/activity)
 
 ### Setup
 clone down the project from github
